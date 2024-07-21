@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+}
+#lol{
+    border: 5px solid white;
+    align-content: center;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+h1{
+    color: white;
+    font-family:"Libre Baskerville", serif;
+    text-align: center;
+}
+#sss{
+    color: white;
+   text-align: center;
+}
