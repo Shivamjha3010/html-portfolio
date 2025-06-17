@@ -4,9 +4,9 @@ html{
 #lol{
     border: 5px solid white;
     align-content: center;
-    margin-top: 100px;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-top: 6.25rem; /* Use Rem instead of px */
+    margin-left: 25rem;
+    margin-right: 25rem;
 }
 h1{
     color: white;
